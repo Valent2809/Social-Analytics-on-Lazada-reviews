@@ -1,7 +1,7 @@
 # Social-Analytics-on-Lazada-reviews
 This repository contains the code and analysis for the Social Analytics of Reviews on Lazada project. 
 ### Goal: 
-The goal is to scrape, analyze, and visualize customer reviews from various platforms to provide actionable insights into customer sentiments, trends, and key topics so that Lazada can improve and address their customer better
+The goal is to scrape, analyze, and visualize customer reviews from various platforms to provide actionable insights into customer sentiments, trends, and key topics so that Lazada can improve and address their customer better for each of the platforms: Apple store, Google play, TrustPilot and Sitejabber.
 ![image](https://github.com/user-attachments/assets/ea9d0f43-f736-4010-85c0-bf41eb349ea9)
 
 
